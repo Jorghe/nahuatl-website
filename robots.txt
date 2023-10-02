@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jorghe.github.io/nahuatl-website/sitemap.xml

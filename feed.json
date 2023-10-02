@@ -1,0 +1,57 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Jorghe",
+    "description": "",
+    "home_page_url": "https://jorghe.github.io/nahuatl-website",
+    "feed_url": "https://jorghe.github.io/nahuatl-website/feed.json",
+    "user_comment": "",
+    "icon": "https://jorghe.github.io/nahuatl-website/media/website/tlacatl.jpg",
+    "author": {
+        "name": "Jorghe Ayala"
+    },
+    "items": [
+        {
+            "id": "https://jorghe.github.io/nahuatl-website/3-marcadores-de-edad.html",
+            "url": "https://jorghe.github.io/nahuatl-website/3-marcadores-de-edad.html",
+            "title": "3. Marcadores de edad",
+            "summary": "Para referirse a la edad del sujeto, se pueden agregar los sufijos: Por ejemplo: Pitzotl es marrano. Si quieres referirte a un marrano muy pequeño de edad es Pitzokonetl, Pitzoichpoch es un marrano joven y Pitzowewe para un marrano de edad avanzada.",
+            "content_html": "<p>Para referirse a la edad del sujeto, se pueden agregar los sufijos:</p>\n<ul>\n<li>Konetl: para referirse a un niño;</li>\n<li>telpoch o ichpoch: para un joven;</li>\n<li>wewe, tenan o lama para referirse a un viejo.</li>\n</ul>\n<p>Por ejemplo: <em>Pitzotl </em>es marrano.</p>\n<p>Si quieres referirte a un marrano muy pequeño de edad es <em>Pitzokonetl</em>, <em>Pitzoichpoch </em>es un marrano joven y <em>Pitzowewe </em>para un marrano de edad avanzada.</p>",
+            "author": {
+                "name": "Jorghe Ayala"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-13T15:44:26-06:00",
+            "date_modified": "2023-03-13T15:44:26-06:00"
+        },
+        {
+            "id": "https://jorghe.github.io/nahuatl-website/2-reverencia-y-apreciacion.html",
+            "url": "https://jorghe.github.io/nahuatl-website/2-reverencia-y-apreciacion.html",
+            "title": "2. Reverencia y apreciación",
+            "summary": "Para denotar el respeto hacia una persona u objeto, se puede agregar el prefijo Pil o el sufijo tzin (y se pueden combinar). La palabra Pilitzcuintli (Pil + Itzcuintli) se refiere a un perro muy venerado o apreciado. Existe otra forma aun más reverencial que sería xochitzitzintin (xochitl + tzitzintin) que denota un grado mayor de apreciación, y éste se puede combinar así también con Pilitzuintzitzintin (Pil + itzcuintli + tzitzintin) para hacer una forma más exagerada de apreciación.",
+            "content_html": "<p>Para denotar el respeto hacia una persona u objeto, se puede agregar el prefijo <em>Pil </em>o el sufijo tzin (y se pueden combinar). La palabra <em>Pilitzcuintli </em>(Pil + Itzcuintli) se refiere a un perro muy venerado o apreciado.</p>\n<p>Existe otra forma aun más reverencial que sería <em>xochitzitzintin</em> (xochitl + tzitzintin) que denota un grado mayor de apreciación, y éste se puede combinar así también con <em>Pilitzuintzitzintin </em>(Pil + itzcuintli + tzitzintin) para hacer una forma más exagerada de apreciación.</p>\n<p> </p>",
+            "author": {
+                "name": "Jorghe Ayala"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-13T15:36:17-06:00",
+            "date_modified": "2023-03-13T15:36:17-06:00"
+        },
+        {
+            "id": "https://jorghe.github.io/nahuatl-website/pialli-asi-se-saluda-en-nahuatl.html",
+            "url": "https://jorghe.github.io/nahuatl-website/pialli-asi-se-saluda-en-nahuatl.html",
+            "title": "1. Pialli: así se saluda en Náhuatl",
+            "summary": "La lengua materna contiene marcadores muy específicos para denotar el respeto o la reverencia. Una forma muy simple de saludar es Pialli. Una forma de saludar en #nahuatl es Panoltzin que significa Paso junto a tí o en tu presencia. Una forma más respetuosa o de cariño puede ser Panoltzintinoh. Un saludo aun más afectivo y que puede escucharse en algunas zonas de Meshico son Panolti chicawatica. Debido a la diversidad cultural que el mismo idioma ofrece, se pueden encontrar muchas más variedades para saludar, por ejemplo Ken Timopilia se traduce&hellip;",
+            "content_html": "<p>La lengua materna contiene marcadores muy específicos para denotar el respeto o la reverencia. Una forma muy simple de saludar es <em>Pialli</em>.</p>\n<p><span class=\"css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0\">Una forma de saludar en </span><span class=\"r-18u37iz\"><a href=\"https://jorghe.github.io/nahuatl-website/tags/aprende-nahuatl/\" title=\"Aprende Náhuatl\" target=\"_blank\" rel=\"noopener noreferrer\">#nahuatl</a></span><span class=\"css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0\"> es <em>Panoltzin </em>que significa Paso junto a tí o en tu presencia. Una forma más respetuosa o de cariño puede ser <em>Panoltzintinoh</em>. Un saludo aun más afectivo y que puede escucharse en algunas zonas de Meshico son <em>Panolti chicawatica</em>.</span></p>\n<p> </p>\n<div id=\"id__05r22d8p0f2t\" class=\"css-901oao r-1nao33i r-37j5jr r-1inkyih r-16dba41 r-rjixqe r-bcqeeo r-bnwqim r-qvutc0\" dir=\"auto\" lang=\"es\" data-testid=\"tweetText\"><span class=\"css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0\">Debido a la diversidad cultural que el mismo idioma ofrece, se pueden encontrar muchas más variedades para saludar, por ejemplo <em>Ken Timopilia</em> se traduce como ¿cómo te sientes a tí mismo? y también se usa como saludo. Cuéntame en los comentarios si conoces algún otro saludo en náhuatl</span></div>",
+            "author": {
+                "name": "Jorghe Ayala"
+            },
+            "tags": [
+                   "aprendenahuatl"
+            ],
+            "date_published": "2023-03-09T00:07:31-06:00",
+            "date_modified": "2023-03-21T12:39:32-06:00"
+        }
+    ]
+}
